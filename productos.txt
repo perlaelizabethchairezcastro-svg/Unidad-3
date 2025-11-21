@@ -1,0 +1,5 @@
+1|Pantalon tipo cargo|250|Ropa casual
+2|Falda con tablas|300|Ropa casual
+3|Sudadera lila|500|Ropa de invierno
+4|Blusa entallada corta|150|Ropa de verano
+5|Chamarra rosa|500|Ropa de invierno
