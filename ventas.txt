@@ -1,0 +1,5 @@
+Falda con tablas|300.0|2|600.0
+Pantalon tipo cargo|250.0|3|750.0
+Blusa entallada corta|150.0|1|150.0
+Sudadera lila|500.0|1|500.0
+Chamarra rosa|500.0|1|500.0
